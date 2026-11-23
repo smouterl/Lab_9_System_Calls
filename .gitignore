@@ -29,6 +29,10 @@
 *.dylib
 
 # Executables
+/info
+/pinfo
+/finfo
+/pmod
 *.exe
 *.out
 *.app
